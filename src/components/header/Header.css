@@ -27,8 +27,4 @@
     .header>a>svg{
         font-size: 8vw
     }
-    .header>a>svg :hover{
-        color:black;
-        transform:scale(1.2)
-    }
 }
